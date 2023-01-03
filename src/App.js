@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import Login from "./components/Login";
 
 function App() {
   return (
     <div>
-     <h1 className='text-xl font-bold'>Hello</h1>
+      <Login />
     </div>
   );
 }
