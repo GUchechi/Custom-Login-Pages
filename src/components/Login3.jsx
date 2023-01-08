@@ -28,7 +28,7 @@ const Login3 = () => {
             </button>
             <p className="text-center">Forgot Username or Password?</p>
           </form>
-          <p className="text-center">Sign-Up</p>
+          <p className="text-center">Sign Up</p>
         </div>
       </div>
     </div>
