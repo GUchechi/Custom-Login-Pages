@@ -26,7 +26,7 @@ const Login3 = () => {
             <button className="w-full py-2 my-4 bg-green-600 hover:bg-green-500">
               Sign In
             </button>
-            <p className="text-center">Forgot Username or Password?</p>
+            <p className="text-center">Forgot Username or Password ?</p>
           </form>
           <p className="text-center">Sign Up</p>
         </div>
